@@ -32,3 +32,10 @@ Au final le projet JAVA a été abandonné pour des problèmes de compétence. O
 * WebApi : Ici il y a les controllers ils permettent d'exposer les fonctions disponibles aux autres clients.
 
 * WebApi.Route : Une bibliothèque de constante pour définir les routes des controllers
+
+
+## Qui à fait quoi sur la WEB API JAVA ?
+
+Geoffrey : 15% --> Principalement du soutien pour la rédaction des TU ainsi que de la réfléxion pour la mise en place d'un token pour l'authentification (ce qui n'a pas abouti car on a pas réussi a bien le faire).
+
+Mael : 85 % --> Création du projet, mise en place de l'architecture, relecture de code pour Geoffrey (expliquer les bonnes pratiques), développement des fonctionnalités, développements d'une partie des TU, Test des fonctionnalités via POSTMAN.
