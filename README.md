@@ -19,7 +19,7 @@ Au final le projet JAVA a été abandonné pour des problèmes de compétence. O
 
 * Business Object : Objet métier. Par exemple en base de données un user ne possède pas de liste de photo. Pourtant dans l'application c'est le cas. Donc l'objet User métier doit posséder une liste de photo.
 
-* Business : Logique qui permet de faire les opérations sur les objets métier. Par exemple quand on met un jour un user on doit mettre à jour ses photos au passage. Pourtant c'est une autre table dans la base de données mais d'un point de vue métier c'est ce qui est attendu. Le business sert donc à relier les objets entre eux pour une utilisation plus intuitive de l'api. 
+* Business : Logique qui permet de faire les opérations sur les objets métier. Par exemple quand on met à jour un user on doit mettre à jour ses photos au passage. Pourtant c'est une autre table dans la base de données mais d'un point de vue métier c'est ce qui est attendu. Le business sert donc à relier les objets entre eux pour une utilisation plus intuitive de l'api. 
 
 * Entities : Objet qui se map directement sur les entités de la base de données.
 
